@@ -12302,7 +12302,7 @@ html.boxed .slider-container {
 	position: relative;
 	text-decoration: none;
 	max-width: 100%;
-	background-color: #FFF;
+	background-color: black;
 	border-radius: 4px;
 	overflow: hidden;
 	-webkit-backface-visibility: hidden;
