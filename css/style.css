@@ -1,10 +1,12 @@
-h2 {
+h1,h2,h4,h5,h6 {
     color: white;
 }
 
 #about-me {
     height: 80vh;
 }
+
+
 
 
 .social-icons {
@@ -14,6 +16,8 @@ h2 {
 .custom-box-details-2{
     height: 230px;
 }
+
+/* portafolioo */
 
 #project{
     display: none;
@@ -31,7 +35,7 @@ h2 {
     display: none;
 }
 #project6{
-    display: none;
+   
 }
 
 #project a{
@@ -52,6 +56,123 @@ h2 {
 #project6{
     text-decoration: none;
 }
+
+/* blogg */
+
+
+#html{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#css{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#javascript{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#vue{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transform: translate(42%,0%);
+}
+#react{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#git{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transform: translate(42%,0%);
+}
+
+
+
+
+
+
+
+
+
+#csss{
+    display: none;
+}
+
+
+#js{
+    display: none;
+}
+
+
+#vues{
+    display: none;
+}
+
+
+#reacts{
+    display: none;
+}
+
+
+#gits{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cssl{
+    display: none;
+}
+
+
+#jsl{
+    display: none;
+}
+
+
+#vuel{
+    display: none;
+}
+
+#reactl{
+    display: none;
+}
+
+
+#gitl{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

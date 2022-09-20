@@ -2599,6 +2599,7 @@ html.ie9 .call-to-action.button-centered .container > .row > [class*="col-"], ht
 
 .owl-carousel.nav-bottom .owl-stage-outer {
 	margin-bottom: 10px;
+	height: 40vh;
 }
 
 .owl-carousel.nav-bottom .owl-nav {
