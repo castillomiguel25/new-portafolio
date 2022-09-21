@@ -130,6 +130,14 @@ h1,h2,h4,h5,h6 {
 
 
 
+@media only screen and (max-width: 667px) {
+
+#lenguaje {
+    display: none;
+}
+}
+
+
 
 
 
